@@ -31,3 +31,18 @@
 ♣ followed by the number 
 
 ♣ no more than ten characters long.
+
+# 📷 Preview of code
+
+① Information correctly inputed
+
+![Screenshot (51)](https://github.com/user-attachments/assets/2981d6aa-cde7-4cb0-bc0c-5438ddba4837)
+
+
+② Information incorrectly inputed
+
+![Screenshot (50)](https://github.com/user-attachments/assets/bf9acb12-a007-48e8-b72d-9e83a208b41b)
+
+
+
+

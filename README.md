@@ -1,8 +1,10 @@
 # PROG5121-Assignment-1
-Description:
+# 🌊  Description:
 
 ➡This project will allow you to create an account by entering a username, password, and South African cell phone number and after login using the correct credentials.
 
+
+# 🌊 Account creation
 ➡Create an account by entering a username, password, and South African cell phone number.To entter information correctly you are required to:
 
 ① Create a username that contains:  

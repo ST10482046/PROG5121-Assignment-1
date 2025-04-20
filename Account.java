@@ -29,7 +29,7 @@ passWord.matches(".*[!@#$%^&*()_+=<>?/{}~`|\\\\].*");
    }
 //This method checks wheteher cellphone is correctly formatted or not.
 public static boolean checkCellPhoneNumber(String phoneNumber){
-//Returns true if cellphone number contains a correct format o a South African number. 
+//Returns true if cellphone number contains a correct format o a South African number.Completed with the use of Chatgpt 
 return phoneNumber.matches("^(\\+27|27|0)(6|7|8)[0-9]{8}$");
 }
 

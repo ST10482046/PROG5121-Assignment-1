@@ -1,8 +1,6 @@
 
 package com.mycompany.account;
 import java.util.*;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
 public class Account {
     //Creation of all variables that will be required and can be used in all classes.
 public static String firstName;
